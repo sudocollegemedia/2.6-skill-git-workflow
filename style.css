@@ -12,6 +12,13 @@ header {
     text-align: center;
 }
 
+.maintext p{
+    line-height: 1.6;
+    text-align: justify;
+    font-size: 18px;
+    color: #af1616;
+}
+
 nav a {
     color: white;
     margin: 0 15px;
