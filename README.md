@@ -1,3 +1,5 @@
 # 2.6-skill-git-workflow
 
-rosario - gitmaster
+Rosario - Git Master & Header Maker
+Mazin - Content Maker
+Frank - 
